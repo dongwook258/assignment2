@@ -2569,7 +2569,7 @@
 											"height": 13,
 											"alpha": -4.595280816022643,
 											"distance": 17.11724276862369,
-											"text": "2.1 : signupUser()( )"
+											"text": "2.1 : signupUser( )"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -3650,7 +3650,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGWzRH9+QjWya4="
 							},
-							"name": "signupUser()",
+							"name": "signupUser",
 							"source": {
 								"$ref": "AAAAAAGWzR1X7Qmqlco="
 							},
@@ -13579,13 +13579,13 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": false,
-											"left": 817.11279296875,
+											"left": 807.34375,
 											"top": 524.5,
-											"width": 130.7744140625,
+											"width": 150.3125,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
-											"text": "2.1.1 : setBikeDetails()"
+											"text": "2.1.1 : updateBikeStatus()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -14472,7 +14472,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4qmYqpxqAPs="
 							},
-							"name": "setBikeDetails()",
+							"name": "updateBikeStatus()",
 							"source": {
 								"$ref": "AAAAAAGW4qp4FpzeAZo="
 							},
